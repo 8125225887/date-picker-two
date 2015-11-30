@@ -1,0 +1,30 @@
+table {
+  background-color: FFFFFF;
+  border-radius: 5px;
+  box-shadow: 5px 5px 0 #eee;
+  cursor: pointer;
+  margin-left: 150px;
+  position:absolute;
+  padding: 2px;
+}
+/*div:focus {
+  background-color: 660033;
+  color: #ebf5fb;
+}*/
+#table2 {
+  border-left: 1px solid #eee;
+  align-items: center;
+  width: 288px;
+}
+#table1  {
+  border-top: 1px solid #eee;
+  border-left: 1px solid #eee;
+  width: 288px;
+}
+select {
+  font-family: sans-serif center;
+  width: 100px;
+}
+th {
+  font-family:1px sans-serif center;
+}
